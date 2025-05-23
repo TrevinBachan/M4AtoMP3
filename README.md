@@ -1,6 +1,6 @@
 # Convert M4A to MP3 (Offline Batch Tool)
 
-Easily convert all DRM-free `.m4a` files to `.mp3` using FFmpeg and Python.
+Easily convert all `.m4a` files to `.mp3` using FFmpeg and Python.
 
 ## 🔧 Features
 - Recursively scans folders
